@@ -21,7 +21,6 @@ The vision is to eliminate the need for centralized intermediaries in transactio
 - Automated dispute resolution using smart contract logic.
 
 ## Contract Details
-(To be filled manually)
 
 Contract Address:0xa5217ab2C877f858bF1De1Acf41fBB7B3479e1aa
 
